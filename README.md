@@ -6,10 +6,20 @@ Unity version：2017.4.5
 AndroidStudio Version：3.1.4
 
 Steps：
-1.Write C# code in Unity,demo in unityproject。
+
+
+1.Write C# code in Unity,demo in unityprojec
+
+
 2.pack unity project to android project
+
+
 3.use AndroidStudio open android project(use-->Import project(Gradle,Eclipse ADT,etc.))
+
+
 4.Find UnityPlayerActivity,write code
+
+
 5.pack and run
 
 
